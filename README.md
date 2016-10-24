@@ -1,3 +1,4 @@
 # GMT
-Learning and using GMT
+Learning and using GMT.
 Read manual in the document of pdf and use the codes to map. 
+From doc/pdf/GMT_Tutorial.pdf.
