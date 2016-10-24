@@ -1,5 +1,4 @@
-# GMT
-No2.
+# GMT No2.
 GMT postsript
 From GMT之路-1.1.pdf and the blogs of SeisMan
 
