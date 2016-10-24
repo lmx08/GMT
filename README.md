@@ -15,4 +15,5 @@ From GMT之路-1.1.pdf and the blogs of SeisMan
 5:files-gmt5.sh,osu91a1f_16.nc(from doc/examples/ex01)
 6:files-gmt6.sh
 Examples from the Internet. Modify the codes to satisfy my version of gmt4. Refer to the blog of SeisMan:https://seisman.info;
-7:
+7:files:gmt7.sh,line.txt
+Using "gmtset BASEMAP_TYPE fancy"to set a rail tracks frame.
