@@ -23,3 +23,5 @@ Examples from the Internet. Modify the codes to satisfy my version of gmt4. Refe
 
 7:files:gmt7.sh,line.txt
 Using "gmtset BASEMAP_TYPE fancy"to set a rail tracks frame.
+
+10:files:gmt10.sh,points.txt,polygon.txt
