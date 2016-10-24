@@ -1,6 +1,6 @@
 # GMT
 GMT postsript
-From GMT之路.1-1.pdf and the blogs of SeisMan
+From GMT之路-1.1.pdf and the blogs of SeisMan
 
 1:files-gmt1.sh;
 1)First postscript-Oct23,10:00
