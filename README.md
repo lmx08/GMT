@@ -1,4 +1,5 @@
 # GMT 
-GMT learning and using the codes to draw.
-#No1.GMT codelines.
-From GMT_Tutorial.pdf.
+Draw the topography of the Japan Sea.
+data source: Etopo1.
+colorful
+
