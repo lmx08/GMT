@@ -32,3 +32,6 @@ EOF
 
 
 12:error message: psxy: GMT Fatal Error: Z-slice with dz = 0
+
+GMT之路2.0
+13:
