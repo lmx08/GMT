@@ -26,12 +26,15 @@ Using "gmtset BASEMAP_TYPE fancy"to set a rail tracks frame.
 
 10:files:gmt10.sh,points.txt,polygon.txt
 
-11:>> EOF 
+11:files-gmt11.sh
+>> EOF 
 ＃input data
 EOF
 
 
-12:error message: psxy: GMT Fatal Error: Z-slice with dz = 0
+12:files-gmt12.sh,area.cpt,input.TXT;
+error message: psxy: GMT Fatal Error: Z-slice with dz = 0
 
 GMT之路2.0
-13:
+13:files-gmtq3.sh,path3.TXT;
+cut instered areas
