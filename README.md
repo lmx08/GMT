@@ -25,3 +25,10 @@ Examples from the Internet. Modify the codes to satisfy my version of gmt4. Refe
 Using "gmtset BASEMAP_TYPE fancy"to set a rail tracks frame.
 
 10:files:gmt10.sh,points.txt,polygon.txt
+
+11:>> EOF 
+＃input data
+EOF
+
+
+12:error message: psxy: GMT Fatal Error: Z-slice with dz = 0
