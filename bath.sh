@@ -8,7 +8,7 @@ R=125/145/30/50
 J=M10c
 B=a5g5
 
-grd2cpt etopo1.grd -CRainbow -E2000 > etopo1.cpt
+grd2cpt etopo1.grd -CRainbow -E20 > etopo1.cpt
 #makecpt -Chaxby -T-100/100/10 > etopo1.cpt
 grdimage etopo1.grd -Cetopo1.cpt -R$R -J$J -B$B:."Japan Topography": -K > $ps
 pscoast -R$R -J$J -W -N1 -O -K >> $ps
