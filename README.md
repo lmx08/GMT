@@ -37,4 +37,9 @@ error message: psxy: GMT Fatal Error: Z-slice with dz = 0
 
 GMT之路2.0
 13:files-gmtq3.sh,path3.TXT;
-cut instered areas
+cut interested areas.
+GMT2.0-P24,截取部分区域。
+可设定多个区域
+
+14:files:gmt14-japan.sh,
+draw the area of Japan.
