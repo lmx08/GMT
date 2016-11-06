@@ -26,7 +26,7 @@ Using "gmtset BASEMAP_TYPE fancy"to set a rail tracks frame.
 
 10:files:gmt10.sh,points.txt,polygon.txt
 
-11:files-gmt11.sh
+11:files-gmt11.sh(gmt15.sh)
 >> EOF 
 ＃input data
 EOF
@@ -43,3 +43,6 @@ GMT2.0-P24,截取部分区域。
 
 14:files:gmt14-japan.sh,
 draw the area of Japan.
+
+15:draw colorful line,http://seisman.info/plot-lines-with-gradient-colors.html;
+ file: gmt15.sh(-m:multi-inputs)
