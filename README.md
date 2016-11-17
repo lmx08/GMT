@@ -46,3 +46,7 @@ draw the area of Japan.
 
 15:draw colorful line,http://seisman.info/plot-lines-with-gradient-colors.html;
  file: gmt15.sh(-m:multi-inputs)
+ 
+16.crust.sh:draw colorful crust thinkness figure,using Etopo30 and crust1.0 data.
+
+17.pb-JapanSea.sh:plate boundaries near Japan Sea,with DEM,from Etopo30 and globe topography.
