@@ -1,5 +1,6 @@
-#Learning GMT
-#Read manual and use the codes to map.
+# Learning GMT
+# Read manual and use the codes to map.
+# All the codes from GMT_Tutorial.pdf(version 4)
 
 1)psbasemap -R10/70/-3/8 -JX4i/3i -B10/1:."My first plot": -P > plot.ps (P8)
 2)psbasemap -R1/10000/1e20/1e25 -JX9il/6il -B2:"Wavelength (m)":/a1f3:"Power (W)":WS > plot2.ps(P9)
